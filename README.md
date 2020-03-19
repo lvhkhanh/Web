@@ -4,6 +4,8 @@ https://www.codecademy.com/learn/learn-testing-for-web-development
 
 https://www.codecademy.com/learn/learn-navigation-design
 
+https://www.codecademy.com/learn/learn-responsive-design
+
 [The 2019 Web Developer Roadmap - A Visual Guide to Becoming a Front End, Back End, or DevOps Developer](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)
 
 https://developers.google.com/web
